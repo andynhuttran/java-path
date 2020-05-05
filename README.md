@@ -4,17 +4,18 @@ There is no any code in this repository, it just contains technical which should
 
 ![My Java Carrer Path](https://github.com/colenhuttran/java-path/blob/master/java-path.png)
 
-**1. Concurrency APIs**
+**1. Data structures or Algorithms**
 
-**2. Collection APIs**
+**2. Concurrency APIs**
 
-**3. Spring BOOT**
+**3. Collection APIs**
 
-**4. Spring MVC**
+**4. Spring BOOT**
 
-**5. Microservice**
+**5. Spring MVC**
 
-**6. Design patterns**
+**6. Microservice**
 
-**7. Data structures or Algorithms**
+**7. Design patterns**
+
 
